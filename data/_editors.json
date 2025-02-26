@@ -1,27 +1,22 @@
 [
     {
-        "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Owner",
+        "name": "Zain Ahmed",
+        "link": "https://youtube.com/@zainahmed456?si=A69r_mh95jEpibTV"
     },
     {
-        "role": "admin",
+        "role": "Co-Owner",
+        "name": "Willysilly420",
+        "link": "https://youtube.com/@willysilly420?si=3YvesMSuZHg4JIFm"
+    },
+    {
+        "role": "SWB Pro",
         "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://youtube.com/@swbpro?si=WFiiaXXJD2ElVTwe"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Colouts",
+        "name": "Developer",
+        "link": "https://www.youtube.com/@Energity_Colouts"
     }
 ]
